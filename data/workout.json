@@ -20,6 +20,184 @@
           { "name": "Planche", "url": "https://musclewiki.com/bodyweight/male/abdominals/forearm-plank" },
           { "name": "Mountain climbers", "url": "https://musclewiki.com/bodyweight/male/core/mountain-climber" }
         ]
+      ],
+      "4": [
+        [
+          { "name": "Pompes écartées", "url": "https://musclewiki.com/bodyweight/male/chest/wide-push-up" },
+          { "name": "Squats sur une jambe (pistol)", "url": "https://musclewiki.com/bodyweight/male/quads/pistol-squat" },
+          { "name": "Superman", "url": "https://musclewiki.com/bodyweight/male/back/superman" },
+          { "name": "Gainage latéral", "url": "https://musclewiki.com/bodyweight/male/obliques/side-plank" }
+        ],
+        [
+          { "name": "Pompes claquées", "url": "https://musclewiki.com/bodyweight/male/chest/clap-push-up" },
+          { "name": "Fentes sautées", "url": "https://musclewiki.com/bodyweight/male/quads/jump-lunge" },
+          { "name": "Relevé de jambes", "url": "https://musclewiki.com/bodyweight/male/abs/lying-leg-raise" },
+          { "name": "Jumping jacks", "url": "https://musclewiki.com/bodyweight/male/full-body/jumping-jack" }
+        ],
+        [
+          { "name": "Pompes Hindu", "url": "https://musclewiki.com/bodyweight/male/chest/hindu-push-up" },
+          { "name": "Wall sit", "url": "https://musclewiki.com/bodyweight/male/quads/wall-sit" },
+          { "name": "Planche dynamique", "url": "https://musclewiki.com/bodyweight/male/abs/plank-up-down" },
+          { "name": "Burpees avec push-up", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" }
+        ],
+        [
+          { "name": "Pompes T", "url": "https://musclewiki.com/bodyweight/male/chest/t-push-up" },
+          { "name": "Squat sumo", "url": "https://musclewiki.com/bodyweight/male/glutes/sumo-squat" },
+          { "name": "Crunch vélo", "url": "https://musclewiki.com/bodyweight/male/abs/bicycle-crunch" },
+          { "name": "Burpees saut haut", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" }
+        ]
+      ],
+      "5": [
+        [
+          { "name": "Pompes Spiderman", "url": "https://musclewiki.com/bodyweight/male/chest/spiderman-push-up" },
+          { "name": "Fentes arrière", "url": "https://musclewiki.com/bodyweight/male/quads/reverse-lunge" },
+          { "name": "Planche latérale dynamique", "url": "https://musclewiki.com/bodyweight/male/obliques/side-plank-hip-lift" },
+          { "name": "Burpees avec saut latéral", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" }
+        ],
+        [
+          { "name": "Pompes en archers", "url": "https://musclewiki.com/bodyweight/male/chest/archer-push-up" },
+          { "name": "Fentes latérales", "url": "https://musclewiki.com/bodyweight/male/quads/lateral-lunge" },
+          { "name": "Planche avec élévation jambe", "url": "https://musclewiki.com/bodyweight/male/glutes/plank-leg-raise" },
+          { "name": "Sauts groupés", "url": "https://musclewiki.com/bodyweight/male/full-body/jump-squat" }
+        ],
+        [
+          { "name": "Pompes pieds surélevés", "url": "https://musclewiki.com/bodyweight/male/chest/feet-elevated-push-up" },
+          { "name": "Squat isométrique", "url": "https://musclewiki.com/bodyweight/male/glutes/isometric-squat" },
+          { "name": "Crunch inversé", "url": "https://musclewiki.com/bodyweight/male/abs/reverse-crunch" },
+          { "name": "Mountain climbers", "url": "https://musclewiki.com/bodyweight/male/core/mountain-climber" }
+        ],
+        [
+          { "name": "Pompes mains rapprochées", "url": "https://musclewiki.com/bodyweight/male/triceps/close-grip-push-up" },
+          { "name": "Squats sur la pointe des pieds", "url": "https://musclewiki.com/bodyweight/male/quads/toe-squat" },
+          { "name": "Planche bras tendus", "url": "https://musclewiki.com/bodyweight/male/abdominals/high-plank" },
+          { "name": "Jump lunges avec rotation", "url": "https://musclewiki.com/bodyweight/male/full-body/jump-lunge" }
+        ],
+        [
+          { "name": "Pompes avec pause", "url": "https://musclewiki.com/bodyweight/male/chest/paused-push-up" },
+          { "name": "Wall sit", "url": "https://musclewiki.com/bodyweight/male/quads/wall-sit" },
+          { "name": "Abdos ciseaux", "url": "https://musclewiki.com/bodyweight/male/abs/scissor-kicks" },
+          { "name": "Jumping jacks", "url": "https://musclewiki.com/bodyweight/male/full-body/jumping-jack" }
+        ]
+      ],
+      "6": [
+        [
+          { "name": "Pompes écartées", "url": "https://musclewiki.com/bodyweight/male/chest/wide-push-up" },
+          { "name": "Fentes", "url": "https://musclewiki.com/bodyweight/male/quads/lunge" },
+          { "name": "Gainage latéral", "url": "https://musclewiki.com/bodyweight/male/obliques/side-plank" },
+          { "name": "Burpees", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" }
+        ],
+        [
+          { "name": "Pompes diamant", "url": "https://musclewiki.com/bodyweight/male/triceps/diamond-push-ups" },
+          { "name": "Squats jump", "url": "https://musclewiki.com/bodyweight/male/glutes/jump-squats" },
+          { "name": "Crunch", "url": "https://musclewiki.com/bodyweight/male/abs/crunch" },
+          { "name": "Jump lunges", "url": "https://musclewiki.com/bodyweight/male/quads/jump-lunge" }
+        ],
+        [
+          { "name": "Pompes Spiderman", "url": "https://musclewiki.com/bodyweight/male/chest/spiderman-push-up" },
+          { "name": "Glute bridge", "url": "https://musclewiki.com/bodyweight/male/glutes/glute-bridge" },
+          { "name": "Planche dynamique", "url": "https://musclewiki.com/bodyweight/male/abs/plank-up-down" },
+          { "name": "Mountain climbers", "url": "https://musclewiki.com/bodyweight/male/core/mountain-climber" }
+        ],
+        [
+          { "name": "Pompes claquées", "url": "https://musclewiki.com/bodyweight/male/chest/clap-push-up" },
+          { "name": "Squat isométrique", "url": "https://musclewiki.com/bodyweight/male/glutes/isometric-squat" },
+          { "name": "Crunch vélo", "url": "https://musclewiki.com/bodyweight/male/abs/bicycle-crunch" },
+          { "name": "Burpees avec saut latéral", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" }
+        ],
+        [
+          { "name": "Pompes Hindu", "url": "https://musclewiki.com/bodyweight/male/chest/hindu-push-up" },
+          { "name": "Fentes latérales", "url": "https://musclewiki.com/bodyweight/male/quads/lateral-lunge" },
+          { "name": "Planche bras tendus", "url": "https://musclewiki.com/bodyweight/male/abdominals/high-plank" },
+          { "name": "Jump squats", "url": "https://musclewiki.com/bodyweight/male/glutes/jump-squats" }
+        ],
+        [
+          { "name": "Pompes en T", "url": "https://musclewiki.com/bodyweight/male/chest/t-push-up" },
+          { "name": "Fentes sautées", "url": "https://musclewiki.com/bodyweight/male/quads/jump-lunge" },
+          { "name": "Relevé de jambes", "url": "https://musclewiki.com/bodyweight/male/abs/lying-leg-raise" },
+          { "name": "Jumping jacks", "url": "https://musclewiki.com/bodyweight/male/full-body/jumping-jack" }
+        ]
+      ]
+    }
+  },
+  "perte de poids": {
+    "poids du corps": {
+      "3": [
+        [
+          { "name": "Jumping jacks", "url": "https://musclewiki.com/bodyweight/male/full-body/jumping-jack" },
+          { "name": "Squats jump", "url": "https://musclewiki.com/bodyweight/male/glutes/jump-squats" },
+          { "name": "Mountain climbers", "url": "https://musclewiki.com/bodyweight/male/core/mountain-climber" },
+          { "name": "Burpees", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" }
+        ],
+        [
+          { "name": "Fentes sautées", "url": "https://musclewiki.com/bodyweight/male/quads/jump-lunge" },
+          { "name": "Pompes", "url": "https://musclewiki.com/bodyweight/male/chest/push-up" },
+          { "name": "High knees", "url": "https://musclewiki.com/bodyweight/male/full-body/high-knees" },
+          { "name": "Gainage dynamique", "url": "https://musclewiki.com/bodyweight/male/abs/plank-up-down" }
+        ],
+        [
+          { "name": "Squat + side kick", "url": "https://musclewiki.com/bodyweight/male/glutes/sumo-squat" },
+          { "name": "Pompes Spiderman", "url": "https://musclewiki.com/bodyweight/male/chest/spiderman-push-up" },
+          { "name": "Crunch vélo", "url": "https://musclewiki.com/bodyweight/male/abs/bicycle-crunch" },
+          { "name": "Shadow boxing", "url": "https://musclewiki.com/bodyweight/male/full-body/shadow-boxing" }
+        ]
+      ],
+      "4": [
+        [
+          { "name": "Burpees avec saut haut", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" },
+          { "name": "Fentes latérales", "url": "https://musclewiki.com/bodyweight/male/quads/lateral-lunge" },
+          { "name": "Planche avec sauts", "url": "https://musclewiki.com/bodyweight/male/abs/plank-jack" },
+          { "name": "Relevé de genoux", "url": "https://musclewiki.com/bodyweight/male/abs/lying-leg-raise" }
+        ],
+        [
+          { "name": "Pompes claquées", "url": "https://musclewiki.com/bodyweight/male/chest/clap-push-up" },
+          { "name": "Squats rapides", "url": "https://musclewiki.com/bodyweight/male/quads/bodyweight-squat" },
+          { "name": "Ciseaux abdos", "url": "https://musclewiki.com/bodyweight/male/abs/scissor-kicks" },
+          { "name": "Skaters", "url": "https://musclewiki.com/bodyweight/male/full-body/skater" }
+        ],
+        [
+          { "name": "Pompes", "url": "https://musclewiki.com/bodyweight/male/chest/push-up" },
+          { "name": "Fentes arrière", "url": "https://musclewiki.com/bodyweight/male/quads/reverse-lunge" },
+          { "name": "Planche", "url": "https://musclewiki.com/bodyweight/male/abdominals/forearm-plank" },
+          { "name": "Jumping jacks", "url": "https://musclewiki.com/bodyweight/male/full-body/jumping-jack" }
+        ],
+        [
+          { "name": "Mountain climbers", "url": "https://musclewiki.com/bodyweight/male/core/mountain-climber" },
+          { "name": "Squats jump", "url": "https://musclewiki.com/bodyweight/male/glutes/jump-squats" },
+          { "name": "Pompes T", "url": "https://musclewiki.com/bodyweight/male/chest/t-push-up" },
+          { "name": "Crunch inversé", "url": "https://musclewiki.com/bodyweight/male/abs/reverse-crunch" }
+        ]
+      ],
+      "5": [
+        [
+          { "name": "High knees", "url": "https://musclewiki.com/bodyweight/male/full-body/high-knees" },
+          { "name": "Squat isométrique", "url": "https://musclewiki.com/bodyweight/male/glutes/isometric-squat" },
+          { "name": "Pompes déclinées", "url": "https://musclewiki.com/bodyweight/male/triceps/decline-push-up" },
+          { "name": "Planche avec montée de genoux", "url": "https://musclewiki.com/bodyweight/male/abs/plank-leg-raise" }
+        ],
+        [
+          { "name": "Pompes Hindu", "url": "https://musclewiki.com/bodyweight/male/chest/hindu-push-up" },
+          { "name": "Fentes sautées", "url": "https://musclewiki.com/bodyweight/male/quads/jump-lunge" },
+          { "name": "Planche bras tendus", "url": "https://musclewiki.com/bodyweight/male/abdominals/high-plank" },
+          { "name": "Shadow boxing", "url": "https://musclewiki.com/bodyweight/male/full-body/shadow-boxing" }
+        ],
+        [
+          { "name": "Jumping jacks", "url": "https://musclewiki.com/bodyweight/male/full-body/jumping-jack" },
+          { "name": "Squats rapides", "url": "https://musclewiki.com/bodyweight/male/quads/bodyweight-squat" },
+          { "name": "Crunch", "url": "https://musclewiki.com/bodyweight/male/abs/crunch" },
+          { "name": "Burpees avec push-up", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" }
+        ],
+        [
+          { "name": "Pompes Spiderman", "url": "https://musclewiki.com/bodyweight/male/chest/spiderman-push-up" },
+          { "name": "Lunges + twist", "url": "https://musclewiki.com/bodyweight/male/obliques/twisting-lunge" },
+          { "name": "Mountain climbers", "url": "https://musclewiki.com/bodyweight/male/core/mountain-climber" },
+          { "name": "Planche dynamique", "url": "https://musclewiki.com/bodyweight/male/abs/plank-up-down" }
+        ],
+        [
+          { "name": "Pompes", "url": "https://musclewiki.com/bodyweight/male/chest/push-up" },
+          { "name": "Fentes latérales", "url": "https://musclewiki.com/bodyweight/male/quads/lateral-lunge" },
+          { "name": "Crunch vélo", "url": "https://musclewiki.com/bodyweight/male/abs/bicycle-crunch" },
+          { "name": "Skaters", "url": "https://musclewiki.com/bodyweight/male/full-body/skater" }
+        ]
       ]
     }
   }
