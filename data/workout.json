@@ -1,0 +1,26 @@
+{
+  "prise de masse": {
+    "poids du corps": {
+      "3": [
+        [
+          { "name": "Pompes", "url": "https://musclewiki.com/bodyweight/male/chest/push-up" },
+          { "name": "Squats", "url": "https://musclewiki.com/bodyweight/male/quads/bodyweight-squat" },
+          { "name": "Tractions", "url": "https://musclewiki.com/bodyweight/male/back/pull-up" },
+          { "name": "Dips", "url": "https://musclewiki.com/bodyweight/male/triceps/dip" }
+        ],
+        [
+          { "name": "Fentes", "url": "https://musclewiki.com/bodyweight/male/quads/lunge" },
+          { "name": "Pompes déclinées", "url": "https://musclewiki.com/bodyweight/male/triceps/decline-push-up" },
+          { "name": "Abdos (crunch)", "url": "https://musclewiki.com/bodyweight/male/abs/crunch" },
+          { "name": "Burpees", "url": "https://musclewiki.com/bodyweight/male/full-body/burpee" }
+        ],
+        [
+          { "name": "Squats jump", "url": "https://musclewiki.com/bodyweight/male/glutes/jump-squats" },
+          { "name": "Pompes diamant", "url": "https://musclewiki.com/bodyweight/male/triceps/diamond-push-ups" },
+          { "name": "Planche", "url": "https://musclewiki.com/bodyweight/male/abdominals/forearm-plank" },
+          { "name": "Mountain climbers", "url": "https://musclewiki.com/bodyweight/male/core/mountain-climber" }
+        ]
+      ]
+    }
+  }
+}

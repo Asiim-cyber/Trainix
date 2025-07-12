@@ -1,0 +1,102 @@
+{
+  "prise de masse": {
+    "debutant": [
+      "Consommez 2-3g de protéines par kg de poids corporel",
+      "Mangez toutes les 3-4 heures",
+      "Privilégiez les glucides complexes",
+      "Hydratez-vous suffisamment"
+    ],
+    "intermediaire": [
+      "Augmentez l'apport calorique de 300-500 calories",
+      "Timing des protéines autour de l'entraînement",
+      "Supplémentation en créatine",
+      "Sommeil de qualité (7-9h)"
+    ],
+    "avance": [
+      "Suivi précis des macronutriments (glucides/lipides/protéines)",
+      "Prévoir un surplus calorique propre (lean bulk)",
+      "Ajoutez des repas liquides pour faciliter les apports",
+      "Fractionnez les repas stratégiquement dans la journée"
+    ]
+  },
+  "perte de poids": {
+    "debutant": [
+      "Déficit calorique de 300-500 calories",
+      "Augmentez les légumes et fibres",
+      "Limitez les sucres ajoutés",
+      "Buvez avant chaque repas"
+    ],
+    "intermediaire": [
+      "Jeûne intermittent possible",
+      "Cardio à jeun occasionnel",
+      "Refeed days hebdomadaires",
+      "Tracking des macros"
+    ],
+    "avance": [
+      "Cyclage des glucides (carb cycling)",
+      "Suivi rigoureux des calories et pesée des aliments",
+      "Combinaison HIIT + musculation",
+      "Intégration de suppléments (L-carnitine, caféine)"
+    ]
+  },
+  "force": {
+    "debutant": [
+      "Augmentez légèrement les calories pour soutenir la récupération",
+      "Consommez des protéines à chaque repas",
+      "Buvez beaucoup d’eau (2L minimum)",
+      "Évitez les aliments ultra-transformés"
+    ],
+    "intermediaire": [
+      "Ajoutez des glucides autour de l'entraînement",
+      "Consommez des lipides sains (huile d’olive, noix)",
+      "Favorisez la créatine et les oméga-3",
+      "Sommeil et récupération priorisés"
+    ],
+    "avance": [
+      "Périodisation de l’alimentation selon les cycles d'entraînement",
+      "Suivi précis des macronutriments",
+      "Utilisation stratégique des repas riches en glucides",
+      "Suppléments avancés (créatine, bêta-alanine, zinc)"
+    ]
+  },
+  "endurance": {
+    "debutant": [
+      "Mangez des glucides complexes (riz, avoine, patate douce)",
+      "Hydratation régulière avant, pendant et après l'effort",
+      "Évitez les repas lourds avant le sport",
+      "Intégrez des collations riches en énergie"
+    ],
+    "intermediaire": [
+      "Timing des glucides avant et après l'entraînement",
+      "Supplémentation en électrolytes",
+      "Favorisez les antioxydants naturels (baies, légumes verts)",
+      "Ajoutez des smoothies énergétiques"
+    ],
+    "avance": [
+      "Stratégie d’apport en glucides pendant les longues séances",
+      "Alimentation riche en micronutriments pour prévenir la fatigue",
+      "Suivi du poids et adaptation des apports",
+      "Utilisation de boissons de récupération (protéines + glucides)"
+    ]
+  },
+  "remise en forme": {
+    "debutant": [
+      "Réduisez les aliments ultra-transformés",
+      "Buvez au moins 1,5L d'eau par jour",
+      "Mangez équilibré à chaque repas",
+      "Privilégiez les cuissons douces"
+    ],
+    "intermediaire": [
+      "Répartissez bien les macronutriments",
+      "Évitez les grignotages entre les repas",
+      "Consommez des protéines à chaque repas",
+      "Adoptez une alimentation variée et colorée"
+    ],
+    "avance": [
+      "Planification hebdomadaire des repas (meal prep)",
+      "Optimisation des apports autour de l'entraînement",
+      "Suivi des apports en micronutriments (vitamines, minéraux)",
+      "Adaptation des calories selon l’activité physique"
+    ]
+  }
+}

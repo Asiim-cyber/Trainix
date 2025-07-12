@@ -1,0 +1,260 @@
+// {
+//   "perte de poids": {
+//     "poids du corps": {
+//       "3": [
+//         ["Burpees", "Jumping jacks", "Mountain climbers", "Squats jump"],
+//         ["High knees", "Pompes", "Fentes jump", "Planche"],
+//         ["Tabata squats", "Pompes rapides", "Sprints", "Abdos"]
+//       ],
+//       "4": [
+//         ["Burpees", "Pompes rapides", "Squats sautés", "Gainage dynamique"],
+//         ["Mountain climbers", "Crunchs", "Sauts latéraux", "Planche bras tendus"],
+//         ["Jump lunges", "Pompes spiderman", "Planche", "Jumping jacks"],
+//         ["Squats jump", "Burpees", "Pompes serrées", "Crunch oblique"]
+//       ],
+//       "5": [
+//         ["Cardio Tabata", "Pompes", "Planche dynamique", "Squats sautés"],
+//         ["Jump rope", "Burpees", "Gainage latéral", "Fentes explosives"],
+//         ["Pompes rapides", "Sauts genoux", "Crunchs", "Planche sur coudes"],
+//         ["Fentes statiques", "Sprints sur place", "Abdos", "Montées de genoux"],
+//         ["Mountain climbers", "Pompes triceps", "Corde invisible", "Gainage"]
+//       ],
+//       "6": [
+//         ["Burpees", "Pompes", "Jump squats", "Planche dynamique"],
+//         ["High knees", "Crunch oblique", "Pompes spiderman", "Corde à sauter"],
+//         ["Squats sautés", "Pompes surélevées", "Gainage latéral", "Sauts groupés"]
+//       ]
+//     },
+//     "halteres": {
+//       "3": [
+//         ["Circuit haltères", "Squats haltères", "Rowing", "Swings"],
+//         ["Thrusters", "Fentes haltères", "Curls biceps", "Cardio"],
+//         ["Complexe haltères", "Farmers walk", "Burpees", "HIIT"]
+//       ],
+//       "4": [
+//         ["Swing haltère", "Squats sautés haltères", "Curl + Press", "Crunch lesté"],
+//         ["Développé épaules", "Squats sumo", "Pompes haltères", "Planche lestée"],
+//         ["Fentes avec haltères", "Abdos avec haltère", "Gainage dynamique", "Swings"],
+//         ["Curls en mouvement", "Crunchs", "Burpees", "Squat press"]
+//       ],
+//       "5": [
+//         ["Jump rope", "Pompes", "Soulevé de terre haltère", "Planche"],
+//         ["Squat jumps", "Développé haltères", "Gainage", "Swing haltère"],
+//         ["Rowing haltères", "Curls marteau", "Burpees", "Gainage rotation"],
+//         ["Crunch haltères", "Pompes alternées", "Squats dynamiques", "Sauts latéraux"],
+//         ["Mountain climbers", "Pompes triceps", "Swing haltère", "Planche"]
+//       ],
+//       "6": [
+//         ["Circuit complet haltères", "Swings", "Squats", "Pompes"],
+//         ["Développé militaire", "Crunch lesté", "Fentes dynamiques", "Burpees"],
+//         ["Curl + squat", "Pompes haltères", "Gainage haltère", "Corde"]
+//       ]
+//     },
+//     "salle complete": {
+//       "3": [
+//         ["Circuit training", "Squats", "Rowing", "Cardio"],
+//         ["Superset poids", "Tapis course", "Vélo", "Rameur"],
+//         ["CrossTraining", "Kettlebell", "Battle ropes", "Elliptique"]
+//       ],
+//       "4": [
+//         ["Circuit HIIT", "Tapis intervalle", "Tractions assistées", "Crunch machine"],
+//         ["Stepper", "Elliptique", "Développé couché rapide", "Planche lestée"],
+//         ["Fentes dynamiques", "Battle ropes", "Machine abdos", "Sprints tapis"],
+//         ["Tirage + squats", "Rameur", "Crunchs lestés", "Cardio vélo"]
+//       ],
+//       "5": [
+//         ["Course 10min", "Kettlebell swing", "Pompes lestées", "Tirage horizontal"],
+//         ["Rameur 15min", "Squats guidés", "Mollets", "Crunch oblique"],
+//         ["Box jumps", "Stepper", "Battle ropes", "Planche lestée"],
+//         ["Développé incliné", "Tapis HIIT", "Gainage dynamique", "Machine jambes"],
+//         ["Pompes avec poids", "Vélo", "Crunch avec poulie", "Jump squats"]
+//       ],
+//       "6": [
+//         ["Rameur", "Step", "Tirage vertical", "Crunch machine"],
+//         ["Cardio tapis", "Pompes lestées", "Battle ropes", "Gainage rotation"],
+//         ["Fentes dynamiques", "Kettlebell", "Crunchs", "Elliptique"]
+//       ]
+//     }
+//   },
+//   "force": {
+//     "poids du corps": {
+//       "3": [
+//         ["Pompes explosives", "Squats sautés", "Tractions", "Dips"],
+//         ["Pompes claquées", "Jump squats", "Planche bras tendus", "Burpees"],
+//         ["Pompes triceps", "Fentes sautées", "Gainage dynamique", "Squats sautés"]
+//       ],
+//       "4": [
+//         ["Pompes diamant", "Tractions", "Squats une jambe", "Gainage"],
+//         ["Pompes archer", "Jump lunges", "Planche bras tendus", "Burpees"],
+//         ["Pompes lestées", "Pistol squats", "Pompes hindoues", "L-sit"],
+//         ["Jump squats", "Pompes spiderman", "Gainage dynamique", "Tractions"]
+//       ],
+//       "5": [
+//         ["Pompes déclinées", "Squats sautés", "Crunchs", "Tractions"],
+//         ["Pompes claquées", "Burpees", "Gainage", "Fentes jump"],
+//         ["Pompes triceps", "Pistol squats", "Pompes archer", "Mountain climbers"],
+//         ["Planche latérale", "Jump squats", "Pompes diamants", "L-sit"],
+//         ["Pompes lestées", "Fentes sautées", "Squats une jambe", "Planche dynamique"]
+//       ],
+//       "6": [
+//         ["Pompes spiderman", "Squats", "Tractions", "Crunchs"],
+//         ["Pompes hindoues", "Planche surélevée", "Gainage dynamique", "Burpees"],
+//         ["Pompes alternées", "Fentes", "Planche rotation", "Tractions"]
+//       ]
+//     },
+//     "halteres": {
+//       "3": [
+//         ["Développé couché", "Rowing", "Squats haltères", "Développé militaire"],
+//         ["Curl marteau", "Soulevé de terre", "Pompes avec haltères", "Crunchs"],
+//         ["Développé épaules", "Rowing haltère", "Gainage lesté", "Squats sumo"]
+//       ],
+//       "4": [
+//         ["Développé militaire", "Swing haltères", "Fentes", "Planche lestée"],
+//         ["Curls", "Pompes", "Squats", "Développé Arnold"],
+//         ["Bench dips", "Pompes haltères", "Soulevé jambes tendues", "Crunchs"],
+//         ["Curls marteau", "Pompes surélevées", "Planche rotation", "Crunch oblique"]
+//       ],
+//       "5": [
+//         ["Développé couché", "Soulevé de terre", "Squats haltères", "Développé nuque"],
+//         ["Pompes lestées", "Fentes haltères", "Gainage sur ballon", "Crunch haltères"],
+//         ["Swing haltères", "Curl + Press", "Pompes haltères", "Planche dynamique"],
+//         ["Soulevé de terre roumain", "Crunchs", "Pompes claquées", "Développé Arnold"],
+//         ["Squats front", "Bench dips", "Shrugs", "Gainage"]
+//       ],
+//       "6": [
+//         ["Développé militaire", "Rowing haltères", "Squats haltères", "Crunchs"],
+//         ["Fentes avant", "Curls", "Planche lestée", "Pompes alternées"],
+//         ["Pompes avec haltères", "Crunch haltères", "Jump squats", "Gainage rotation"]
+//       ]
+//     },
+//     "salle complete": {
+//       "3": [
+//         ["Développé couché", "Soulevé de terre", "Squats", "Tractions"],
+//         ["Rowing barre", "Développé militaire", "Pompes lestées", "Crunchs"],
+//         ["Swing kettlebell", "Presse jambes", "Crunch machine", "Fentes guidées"]
+//       ],
+//       "4": [
+//         ["Développé incliné", "Tirage poulie", "Crunch lesté", "Squats"],
+//         ["Pompes lestées", "Rameur", "Fentes", "Planche dynamique"],
+//         ["Soulevé jambes tendues", "Crunch oblique", "Développé épaules", "Squats front"],
+//         ["Tractions", "Pompes", "Gainage lesté", "Jump squats"]
+//       ],
+//       "5": [
+//         ["Développé couché", "Pompes lestées", "Curls", "Crunchs"],
+//         ["Squats guidés", "Pompes surélevées", "Tirage vertical", "Planche dynamique"],
+//         ["Développé nuque", "Crunchs machine", "Swing haltères", "Jump rope"],
+//         ["Rameur", "Squats front", "Planche lestée", "Tapis"],
+//         ["Tractions assistées", "Presse jambes", "Gainage rotation", "Crunch oblique"]
+//       ],
+//       "6": [
+//         ["Développé militaire", "Squats sautés", "Crunchs", "Pompes alternées"],
+//         ["Tapis 10min", "Swing haltères", "Crunchs lestés", "Pompes lestées"],
+//         ["Squats front", "Fentes dynamiques", "Tractions", "Pompes"]
+//       ]
+//     }
+//   },
+//   "endurance": {
+//     "poids du corps": {
+//       "3": [
+//         ["Jumping jacks", "Burpees", "Mountain climbers", "Planche"],
+//         ["High knees", "Pompes rapides", "Squats sautés", "Crunchs"],
+//         ["Jump squats", "Pompes alternées", "Corde invisible", "Planche dynamique"]
+//       ],
+//       "4": [
+//         ["Jump rope", "Pompes", "Squats sautés", "Gainage dynamique"],
+//         ["Burpees", "Planche rotation", "Pompes spiderman", "Fentes dynamiques"],
+//         ["Pompes triceps", "Sauts latéraux", "Crunchs", "Corde à sauter"],
+//         ["Mountain climbers", "Jump squats", "Pompes rapides", "Gainage"]
+//       ],
+//       "5": [
+//         ["Course sur place", "Pompes claquées", "Sauts groupés", "Crunchs"],
+//         ["Corde invisible", "Pompes", "Planche bras tendus", "Fentes sautées"],
+//         ["High knees", "Pompes alternées", "Squats", "Planche dynamique"],
+//         ["Jump lunges", "Burpees", "Pompes spiderman", "Crunch oblique"],
+//         ["Pompes triceps", "Sauts genoux", "Planche rotation", "Corde"]
+//       ],
+//       "6": [
+//         ["Jump rope", "Pompes rapides", "Crunchs", "Planche"],
+//         ["Mountain climbers", "Pompes", "Fentes", "Jump squats"],
+//         ["Pompes triceps", "Squats sautés", "Planche bras tendus", "Burpees"]
+//       ]
+//     },
+//     "halteres": {
+//       "3": [
+//         ["Circuit haltères", "Pompes haltères", "Squats haltères", "Crunchs"],
+//         ["Swing haltères", "Fentes haltères", "Pompes rapides", "Planche lestée"],
+//         ["Rowing haltères", "Pompes spiderman", "Crunch haltères", "Burpees"]
+//       ],
+//       "4": [
+//         ["Pompes", "Squats haltères", "Crunchs", "Planche"],
+//         ["Pompes haltères", "Fentes", "Gainage dynamique", "Swings"],
+//         ["Curl + Press", "Crunch oblique", "Squats", "Pompes triceps"],
+//         ["Jump squats", "Planche rotation", "Pompes rapides", "Corde"]
+//       ],
+//       "5": [
+//         ["Jump rope", "Pompes", "Squats", "Crunchs"],
+//         ["Fentes haltères", "Planche", "Pompes spiderman", "Crunch oblique"],
+//         ["Pompes alternées", "Swings", "Curls", "Jump squats"],
+//         ["Pompes triceps", "Planche rotation", "Squats sumo", "Corde invisible"],
+//         ["Gainage", "Jump lunges", "Pompes rapides", "Crunch lesté"]
+//       ],
+//       "6": [
+//         ["Pompes", "Squats", "Crunchs", "Gainage"],
+//         ["Pompes spiderman", "Swings", "Pompes alternées", "Planche dynamique"],
+//         ["Jump squats", "Curl + Press", "Crunch haltères", "Corde"]
+//       ]
+//     },
+//     "salle complete": {
+//       "3": [
+//         ["Tapis 15min", "Pompes", "Squats", "Gainage"],
+//         ["Rameur", "Pompes rapides", "Crunchs", "Corde à sauter"],
+//         ["Stepper", "Pompes spiderman", "Jump squats", "Planche"]
+//       ],
+//       "4": [
+//         ["Vélo 10min", "Pompes", "Crunchs", "Squats sautés"],
+//         ["Elliptique", "Pompes triceps", "Planche dynamique", "Box jumps"],
+//         ["Tapis HIIT", "Pompes spiderman", "Crunch oblique", "Fentes"],
+//         ["Tirage", "Jump rope", "Pompes rapides", "Gainage rotation"]
+//       ],
+//       "5": [
+//         ["Tapis course", "Pompes", "Crunchs", "Squats"],
+//         ["Pompes haltères", "Planche dynamique", "Fentes", "Corde à sauter"],
+//         ["Rameur", "Pompes triceps", "Crunch machine", "Squats sautés"],
+//         ["Stepper", "Planche rotation", "Pompes rapides", "Jump lunges"],
+//         ["Elliptique", "Corde", "Pompes", "Crunch oblique"]
+//       ],
+//       "6": [
+//         ["Pompes", "Squats", "Crunchs", "Planche"],
+//         ["Stepper", "Pompes triceps", "Planche rotation", "Burpees"],
+//         ["Tapis", "Pompes rapides", "Corde", "Crunchs"]
+//       ]
+//     }
+//   },
+//   "remise en forme": {
+//     "poids du corps": {
+//       "3": [
+//         ["Pompes murales", "Squats", "Marche", "Étirements"],
+//         ["Fentes", "Pompes sur les genoux", "Abdos légers", "Yoga"],
+//         ["Équilibre", "Souplesse", "Cardio léger", "Relaxation"]
+//       ],
+//       "4": [
+//         ["Pompes murales", "Marche", "Gainage", "Étirements"],
+//         ["Squats", "Yoga", "Respiration", "Cardio doux"],
+//         ["Pompes sur les genoux", "Fentes", "Souplesse", "Abdos"],
+//         ["Relâchement musculaire", "Gainage léger", "Marche", "Équilibre"]
+//       ],
+//       "5": [
+//         ["Cardio doux", "Pompes murales", "Squats", "Respiration"],
+//         ["Étirements", "Marche", "Yoga", "Gainage"],
+//         ["Fentes", "Pompes genoux", "Souplesse", "Cardio léger"],
+//         ["Relaxation", "Équilibre", "Squats", "Respiration profonde"],
+//         ["Pompes légères", "Souplesse", "Marche", "Yoga"]
+//       ],
+//       "6": [
+//         ["Marche", "Yoga", "Étirements", "Respiration"],
+//         ["Pompes murales", "Souplesse", "Relaxation", "Gainage"],
+//         ["Squats", "Fentes", "Abdos", "Cardio doux"]
+//       ]
+//     }
+//   }
+// }
