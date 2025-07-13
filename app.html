@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/app.css">
+    <title>Trainix - Votre Coach Personnel</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">Trainix</div>
+                <div class="nav-buttons">
+                    <button class="nav-btn" id="darkModeBtn" title="Mode sombre">
+                        <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 2.25a.75.75 0 01.75.75v2.25a.75.75 0 01-1.5 0V3a.75.75 0 01.75-.75zM7.5 12a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM18.894 6.166a.75.75 0 00-1.06-1.06l-1.591 1.59a.75.75 0 101.06 1.061l1.591-1.59zM21.75 12a.75.75 0 01-.75.75h-2.25a.75.75 0 010-1.5H21a.75.75 0 01.75.75zM17.834 18.894a.75.75 0 001.06-1.06l-1.59-1.591a.75.75 0 10-1.061 1.06l1.59 1.591zM12 18a.75.75 0 01.75.75V21a.75.75 0 01-1.5 0v-2.25A.75.75 0 0112 18zM7.758 17.303a.75.75 0 00-1.061-1.06l-1.591 1.59a.75.75 0 001.06 1.061l1.591-1.59zM6 12a.75.75 0 01-.75.75H3a.75.75 0 010-1.5h2.25A.75.75 0 016 12zM6.697 7.757a.75.75 0 001.06-1.06l-1.59-1.591a.75.75 0 00-1.061 1.06l1.59 1.591z"/>
+                        </svg>
+                    </button>
+                    <button class="nav-btn" id="historyBtn" title="Historique">
+                        <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                        </svg>
+                    </button>
+                    <button class="nav-btn" id="statsBtn" title="Statistiques">
+                        <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z"/>
+                        </svg>
+                    </button>
+                    <button class="btn-deconnexion" id="btn-deconnexion">se deconnecter</button>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <main>
+        <div class="container">
+            <div class="hero">
+                <h1 class="hero-title" id="welcomeMsg"></h1>
+                <h3 class="hero-subtitle">Je suis votre Coach Personnel</h3>
+                <p class="hero-subtitle">Créez votre programme d'entraînement personnalisé dés maintenant !</p>
+            </div>
+
+            <div class="form-card" id="form-card">
+                <form id="workoutForm">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label class="form-label" for="goal">Objectif</label>
+                            <select class="form-input" id="goal" name="goal" required>
+                                <option value="">Sélectionnez votre objectif</option>
+                                <option value="muscle-gain">Prise de masse</option>
+                                <option value="fat-loss">Perte de poids</option>
+                                <!-- <option value="strength">Force</option>
+                                <option value="endurance">Endurance</option>
+                                <option value="general-fitness">Forme générale</option> -->
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" for="level">Niveau</label>
+                            <select class="form-input" id="level" name="level" required>
+                                <option value="">Sélectionnez votre niveau</option>
+                                <option value="beginner">Débutant</option>
+                                <option value="intermediate">Intermédiaire</option>
+                                <option value="advanced">Avancé</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" for="days">Jours par semaine</label>
+                            <select class="form-input" id="days" name="days" required>
+                                <option value="">Nombre de jours</option>
+                                <option value="3">3 jours</option>
+                                <option value="4">4 jours</option>
+                                <option value="5">5 jours</option>
+                                <option value="6">6 jours</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" for="equipment">Équipement</label>
+                            <select class="form-input" id="equipment" name="equipment" required>
+                                <option value="">Type d'équipement</option>
+                                <option value="bodyweight">Poids du corps</option>
+                                <!-- <option value="home-gym">Équipement à domicile</option>
+                                <option value="full-gym">Salle de sport complète</option> -->
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" for="duration">Durée par séance</label>
+                            <select class="form-input" id="duration" name="duration" required>
+                                <option value="">Durée souhaitée</option>
+                                <option value="30">30 minutes</option>
+                                <option value="45">45 minutes</option>
+                                <option value="60">60 minutes</option>
+                                <option value="90">90 minutes</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" for="focus">Zone prioritaire</label>
+                            <select class="form-input" id="focus" name="focus">
+                                <option value="">Optionnel</option>
+                                <option value="upper">Haut du corps</option>
+                                <!-- <option value="lower">Bas du corps</option>
+                                <option value="core">Abdominaux</option>
+                                <option value="cardio">Cardio</option> -->
+                            </select>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn-primary" id="generateBtn">
+                        <span id="btnText">Générer mon programme</span>
+                        <div class="loading" id="loadingSpinner">
+                            <div class="spinner"></div>
+                            <span>Génération en cours...</span>
+                        </div>
+                    </button>
+                </form>
+            </div>
+
+            <div class="results" id="results">
+                <div class="results-header">
+                    <h2 class="results-title">Votre Programme Personnalisé</h2>
+                    <div class="results-actions">
+                        <button class="btn-secondary" id="printBtn">
+                            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-4 6V8a2 2 0 00-2-2H8a2 2 0 00-2 2v8a2 2 0 002 2h2a2 2 0 002-2z"/>
+                            </svg>
+                            Imprimer
+                        </button>
+                        <button class="btn-secondary" id="saveBtn">
+                            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M17 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V7l-4-4z"/>
+                            </svg>
+                            Sauvegarder
+                        </button>
+                        <button class="btn-secondary" id="newProgramBtn">
+                            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M12 4.5v15m7.5-7.5h-15"/>
+                            </svg>
+                            Nouveau programme
+                        </button>
+                    </div>
+                </div>
+
+                <div class="workout-grid" id="workoutGrid">
+                    <!-- Workout cards will be generated here -->
+                </div>
+
+                <div class="nutrition-card" id="nutritionCard">
+                    <div class="nutrition-header">
+                        <div class="nutrition-icon">🥗</div>
+                        <h3 class="nutrition-title">Conseils Nutritionnels</h3>
+                    </div>
+                    <div class="nutrition-grid" id="nutritionGrid">
+                        <!-- Nutrition tips will be generated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modalTitle">Titre</h3>
+                <button class="modal-close" id="modalClose">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Modal content will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+<script type="module" src="./assets/javascript/script.js"></script>
+
+
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.10.0/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyAZx-5UPvsaAz29f_8Qk67WGGmIx6KsInE",
+    authDomain: "trainix-47c4f.firebaseapp.com",
+    projectId: "trainix-47c4f",
+    storageBucket: "trainix-47c4f.firebasestorage.app",
+    messagingSenderId: "207195754323",
+    appId: "1:207195754323:web:7a2c800bc0f500911adba6",
+    measurementId: "G-CXBKSTHZ5M"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
+</body>
+</html>
